@@ -1,0 +1,43 @@
+.signup{
+    border: 1px solid #ffffff;
+       background: #fff !important;
+}
+
+.form_template {
+    width: 500px;
+}
+
+.firstfield{
+    display: flex;
+    grid-template-columns: 2fr 2fr;
+    gap: 1rem;
+}
+
+.anthfield{
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: start;
+}
+
+.inputfield{
+    background: #E1E1E1;
+}
+
+.inputfield{
+    border: 1px solid transparent;
+}
+
+.button{
+    background: #B7BCC4;
+    border-radius: 4px;
+    border: 1px solid transparent;
+    color: white;
+}
+
+.createaccount{
+    
+}
+
+@media screen  {
+    
+}
